@@ -1,0 +1,19 @@
+{
+  "name": "graph-sandbox",
+  "version": "0.0.0",
+  "description": "graphql + mongo + express",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stetsd/graph-sandbox.git"
+  },
+  "author": "'DStets' <Dmitriy.Stets@isobar.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stetsd/graph-sandbox/issues"
+  },
+  "homepage": "https://github.com/stetsd/graph-sandbox#readme"
+}
