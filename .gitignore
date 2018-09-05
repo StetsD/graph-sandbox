@@ -1,15 +1,6 @@
-/.idea/
-/web/robots.txt
-
-/log/
-
-node_modules/
-
-# frontend #
-/.sass-cache
-/bower_components
-/.nuxt
-/dist
-/public
-/assets
-npm-debug.log
+node_modules
+.DS_Store
+*.log
+*.error
+dist
+.webpack
